@@ -18,3 +18,5 @@ This script requires the following:
 ```bash
 ./ipchecker.sh
 
+
+This script was written with help from ChatGPT
